@@ -9,8 +9,8 @@ MySkill
 
 
 Now Im Learning
-- Flutter
-- Dart
+- IoT
+- AI
 
 If you want to hire me, just text my whatsapp
 https://wa.me/6285174067927
