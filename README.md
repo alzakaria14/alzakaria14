@@ -64,8 +64,7 @@ I'm always open to interesting projects and collaboration opportunities!
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285174067927)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alzakaria14)
 
 </div>
 
@@ -78,7 +77,7 @@ I'm always open to interesting projects and collaboration opportunities!
   **Looking for a dedicated developer?**  
   Let's discuss your project 👉 [Contact me on WhatsApp](https://wa.me/6285174067927)
 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alzakaria14&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
