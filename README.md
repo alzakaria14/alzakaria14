@@ -31,9 +31,9 @@ C++         ██████████████░░░░░░  70%
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alzakaria14&show_icons=true&theme=tokyonight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alzakaria14&layout=compact&theme=tokyonight)
 
 </div>
 
