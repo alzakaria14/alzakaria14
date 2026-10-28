@@ -14,7 +14,8 @@ I'm a passionate fullstack developer who loves crafting efficient and scalable w
 
 ### Languages & Frameworks
 ```text
-PHP         ████████████████████░  95%
+PHP         ████████████████████░  97%
+Go          ████████████████████░  95%
 JavaScript  ████████████████████░  95%
 Python      ███████████████░░░░░  75%
 C++         ██████████████░░░░░░  70%
@@ -44,8 +45,9 @@ C++         ██████████████░░░░░░  70%
 | Frontend | Backend | Database | Tools |
 |----------|---------|----------|-------|
 | JavaScript | PHP | MySQL | Git |
-| HTML/CSS | Python | | Docker |
-| React/Vue | C++ | | VS Code |
+| HTML/CSS | Python | PostgreSQL | Docker |
+| React/Vue | C++ | SQlite | VS Code |
+| Flutter | Go | | |
 
 </div>
 
